@@ -1,0 +1,7 @@
+image:
+  file: .gitpod.Dockerfile
+
+# FIXME: Shellcheck --external sources is not recognized on theia (https://github.com/eclipse-theia/theia/issues/6754)
+vscode:
+  extensions:
+    - timonwong.shellcheck@0.9.0:hsU/Rd39aqPYowTqL+DbXg==
